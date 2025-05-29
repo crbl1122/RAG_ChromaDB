@@ -1,4 +1,4 @@
-# RAG App with ChromaDB + llama_index + BGE embeddings + GPT-4o-mini
+# RAG App with ChromaDB + LlamaIndex + BGE embeddings + GPT-4o-mini
 
 ## Overview
 
