@@ -1,0 +1,6 @@
+streamlit
+chromadb
+sentence-transformers
+openai
+llama-index-vector-stores-chroma
+torch
