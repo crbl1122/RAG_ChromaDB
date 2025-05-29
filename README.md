@@ -27,8 +27,8 @@ The UI is a Streamlit app for easy deployment and interaction.
 1. **Clone the repository**
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+gh repo clone crbl1122/RAG_ChromaDB
+cd RAG_ChromaDB
 ```
 
 2. **(Optional but recommended) Create and activate a virtual environment**
